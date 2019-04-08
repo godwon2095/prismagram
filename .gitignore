@@ -10,3 +10,9 @@
 
 /node_modules
 /yarn-error.log
+
+.yarn-integrity
+.env
+.next
+genrated
+prisma.yml
